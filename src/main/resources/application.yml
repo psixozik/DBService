@@ -1,0 +1,12 @@
+server:
+  address:
+  port: 3560
+
+kafka:
+  server: localhost:9092
+  topic: test-topic
+
+spring:
+  data:
+    mongodb:
+      database: testdatabase
